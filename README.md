@@ -4,7 +4,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,react,spring,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,c#,.net,java,react,spring,git&perline=4)](https://skillicons.dev)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=teodoruz&show_icons=true&count_private=true&hide_border=true&title_color=7240D0&icon_color=7240D0&text_color=7240D0&bg_color=0d1117" alt="Marcos github stats" /> 
